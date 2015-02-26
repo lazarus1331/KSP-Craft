@@ -15,3 +15,5 @@ Craft files from Kerbal Space Program
 * Duna Voyager - All stock ship for traveling to Duna. Has shroud which covers lander. Requires removing the lander and attaching to front of command pod in orbit around Kerbin.
 * NKRV 1+L2 - Near Kerbin Rescue Vehicle Mk.1 with Launcher Mk.2: designed to rescue kerbins floating around kerbin
 * MunExplorerHabitat1+L1 - An early tech Mun base with launcher. Minimal dV for maneuvering.
+
+* Sputnik --my largest dV to date with over 26k in dV, not really the most efficient design ever, but the first couple of stages are glorious with tons of fire and smoke to satisfy any pyro
