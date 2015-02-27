@@ -7,6 +7,10 @@ Craft files from Kerbal Space Program
 * MechJeb (http://www.curse.com/ksp-mods/kerbal/220221-mechjeb/2222555#)
 * KW Rocketry (http://www.curse.com/ksp-mods/kerbal/220894-kw-rocketry-v2-6d/2216607#)
 
+## Optional Mods (some craft like Chute! depend on them)
+
+* http://forum.kerbalspaceprogram.com/threads/57988-0-90-x-Wenkel-Corporation-RealChute-Parachute-Systems-v1-2-6-3-28-12-14
+
 ## Ship descriptions
 
 * Mercury - early tech tree craft capable of getting a kerbin to a decent orbit and then de-orbit to a specific survey spot on Kerbin
@@ -17,6 +21,12 @@ Craft files from Kerbal Space Program
 * MunExplorerHabitat1+L1 - An early tech Mun base with launcher. Minimal dV for maneuvering.
 
 * Sputnik --my largest dV to date with over 26k in dV, not really the most efficient design ever, but the first couple of stages are glorious with tons of fire and smoke to satisfy any pyro
+
+## Makefile
+
+`make syncto` -- will sync to a save folder
+
+`make syncfrom` -- will sync from a save folder
 
 As a helper to copy back and forth the ships to my current save I added a Makefile, you can simply type `make` in the current directory to see it’s help, when setting the path make it absolute
 and escape your spaces, e.g.:
