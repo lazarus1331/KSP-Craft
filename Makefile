@@ -40,3 +40,8 @@ rsyncTo:
 rsyncFrom:
 	rsync -av $(shell cat savepath)/Ships ./
 	rsync -av $(shell cat savepath)/Subassemblies ./
+
+push:
+	git push joshuacox master
+	git push lazarus master
+	git push thalhalla master
