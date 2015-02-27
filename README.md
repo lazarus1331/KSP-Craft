@@ -23,3 +23,4 @@ and escape your spaces, e.g.:
 ```
 /mnt/xyliss/SteamLibrary/SteamApps/common/Kerbal\ Space\ Program/saves/Nasa
 ```
+once you enter it, it is saved by the Makefile for future runs as savepath in the current directory, to change it, simply remove the file
