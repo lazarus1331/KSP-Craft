@@ -17,3 +17,9 @@ Craft files from Kerbal Space Program
 * MunExplorerHabitat1+L1 - An early tech Mun base with launcher. Minimal dV for maneuvering.
 
 * Sputnik --my largest dV to date with over 26k in dV, not really the most efficient design ever, but the first couple of stages are glorious with tons of fire and smoke to satisfy any pyro
+
+As a helper to copy back and forth the ships to my current save I added a Makefile, you can simply type `make` in the current directory to see it’s help, when setting the path make it absolute
+and escape your spaces, e.g.:
+```
+/mnt/xyliss/SteamLibrary/SteamApps/common/Kerbal\ Space\ Program/saves/Nasa
+```
