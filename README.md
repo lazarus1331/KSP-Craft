@@ -11,14 +11,14 @@ KSP 1.0.2
 
 ## Ship descriptions
 
-# Tech level 1-4
+### Tech level 1-4
 - ML1+L1 : Mun Lander v1 with Launch vehicle 1. Designed to take one kerbal to the mun and back, with some science instruments aboard.
 - O-X1 : Early LKO capable craft. Seats one kerbal.
 - RX-1 : Very similar to O-X1, it is capable of LKO with a bit more fuel for maneuvering. It seats two kerbals.
 - Tour-O2 : For cashing in on all those tour contracts for big $$$! Seats three kerbals for a ride into LKO.
 - Tour-X2 : Early tour ship, which is capable of escaping the atmosphere with three kerbals aboard.
 
-# Tech level 1-10
+### Tech level 1-10
 
 
 ## Makefile
