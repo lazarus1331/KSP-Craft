@@ -22,9 +22,9 @@ Check the CKANfigs directory for exported CKAN configurations that should allow 
 
 ### Tech level 1-10
 - Ships/SPH/SciRover3 : Final rendition of the Science Lab Rover line, with all scientific sensors. ![SciRover3](thumbs/Kontiki_SPH_SciRover3.png "SciRover3")
-- Ships/SPH/Mining Base1 : Mining and ISRU Rover, with Fuel storage tanks. ![Mining Base1](thumbs/Kontiki_SPH_Mining _Base1.png "Mining Base1")
+- Ships/SPH/Mining Base1 : Mining and ISRU Rover, with Fuel storage tanks. ![MiningBase1](thumbs/Kontiki_SPH_Mining\ Base1.png "Mining Base1")
 - Ships/VAB/BaySat5L+DV+LTV1 : Science Probe; Lander configuration with interplanetary transfer and launch vehicles. ![BaySat5L+DV+LTV1](thumbs/Kontiki_VAB_BaySat5L+DV+LTV1.png "BaySat5L+DV+LTV1")
-- Ships/VAB/MFerry2+L2 : Kerbal (x7) Ferry and return vehicle, with refueling module and launch vehicle. ![MFerry2+L2](thumbs/Kontiki_SPH_MFerry2+L2.png "MFerry2+L2")
+- Ships/VAB/MFerry2+L2 : Kerbal (x7) Ferry and return vehicle, with refueling module and launch vehicle. ![MFerry2L2](thumbs/Kontiki_VAB_MFerry2+L2.png "MFerry2+L2")
 
 ### Tech level 1-15
 
