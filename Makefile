@@ -14,7 +14,7 @@ syncfrom: savepath continuefrom rsyncFrom
 # will skip over this step if the name file is left from previous run 'make clean' to remove
 savepath:
 	@while [ -z "$$SAVEPATH" ]; do \
-		read -r -p "Enter the path to the save folder you wish to sync with [SAVEPATH]: " SAVEPATH; echo "$$SAVEPATH">>savepath; cat savepath; \
+		read -r -p "Enter the path to the save folder you wish to sync with [SAVEPATH]: " SAVEPATH; echo -n '"' >>savepath; echo -n "$$SAVEPATH">>savepath; echo -n '"' >>savepath;  cat savepath; \
 	done ;
 
 continuefrom:
