@@ -3,11 +3,13 @@
 Craft files from Kerbal Space Program
 
 ## Version
-KSP 1.0.2
+KSP 1.0.4
 
 ## Required Mods
+See this repo for modules: <https://github.com/lazarus1331/KSP-GameData.git>
 
-## Optional Mods (some craft like Chute! depend on them)
+### CKANfigs
+Check the CKANfigs directory for exported CKAN configurations that should allow easy installation of required modules.
 
 ## Ship descriptions
 
@@ -19,7 +21,13 @@ KSP 1.0.2
 - Tour-X2 : Early tour ship, which is capable of escaping the atmosphere with three kerbals aboard.
 
 ### Tech level 1-10
+- Ships/SPH/SciRover3 : Final rendition of the Science Lab Rover line, with all scientific sensors. ![SciRover3](thumbs/Kontiki_SPH_SciRover3.png "SciRover3")
+- Ships/SPH/Mining Base1 : Mining and ISRU Rover, with Fuel storage tanks. ![MiningBase1](thumbs/Kontiki_SPH_Mining\ Base1.png "Mining Base1")
+- Ships/VAB/BaySat5L+DV+LTV1 : Science Probe; Lander configuration with interplanetary transfer and launch vehicles. ![BaySat5L+DV+LTV1](thumbs/Kontiki_VAB_BaySat5L+DV+LTV1.png "BaySat5L+DV+LTV1")
+- Ships/VAB/MFerry2+L2 : Kerbal (x7) Ferry and return vehicle, with refueling module and launch vehicle. ![MFerry2L2](thumbs/Kontiki_VAB_MFerry2+L2.png "MFerry2+L2")
+- Ships/VAB/RefuelDepot1 : Refuel depot. ![RefuelDepot1](thumbs/Kontiki_VAB_RefuelDepot1.png "RefuelDepot1")
 
+### Tech level 1-15
 
 ## Makefile
 
